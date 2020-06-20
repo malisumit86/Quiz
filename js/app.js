@@ -88,7 +88,7 @@ function name1() {
     localStorage.setItem("Name", n1);
     localStorage.setItem("Middle", n2);
     localStorage.setItem("Surname", n3);
-    alert(n1 + n2 + n3);
+    
 };
 
 //  get data to certifiacate from local storage
